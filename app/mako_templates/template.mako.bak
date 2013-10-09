@@ -1,0 +1,54 @@
+<%inherit file="base.mako" />
+
+<!-- header -->
+<div class="row">
+    <div class="col-lg-12"><!-- header -->
+        <h2>DevTalks: Developers teaching developers</h2>
+        <div class="col-lg-8">
+            <p class="lead" style="text-align:justify;">Listen. Learn. Grow.</p>
+            <p>Would you like to learn something new, meet like-minded
+            individuals, or give back to the developer community? If so, you're 
+            in the right spot. DevTalks is a developer driven community whose
+            goals are to promote the sharing of knowledge and encourage
+            collaboration among developers regardless of their background or
+            level of expertise.
+            <span class="text-info">Our first talk</span> is coming up, see the details
+            </p>
+            <a data-toggle="modal" class="btn btn-primary" href="#RSVPModal">Attend the next talk!</a>
+        </div>
+    </div><!-- end header column -->
+</div><!-- end header row -->
+
+<!-- informational columns -->
+<div class="row" style="margin-left:0px;">
+
+    <!-- left columns-->
+    <div class="col-lg-4">
+
+        <!-- who info -->
+        <div class="row">
+            <h3>Who</h3>
+            <p class="lead">TBD</p>
+        </div> <!-- end who info -->
+
+        <!-- when info -->
+        <div class="row">
+            <h3>When</h3>
+            <p class="lead">TBD</p>
+        </div> <!-- end when info -->
+
+        <!-- where info -->
+        <div class="row">
+            <h3>Where</h3>
+            <p class="lead">TBD</p>
+        </div> <!-- end where info -->
+    </div><!-- end left column -->
+
+    <!-- right column -->
+    <div class="col-lg-8">
+
+        <!-- talk info -->
+        <h3>The Talk</h3>
+        <p><span class="lead">TBD</span></p>
+    </div><!-- end right column -->
+</div><!-- end informational columns -->
