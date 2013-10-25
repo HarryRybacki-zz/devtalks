@@ -48,7 +48,7 @@
         <div class="row">
             <h3>Where</h3>
             <p class="lead">Nussbaum Center, downtown Greensboro.</p>
-            <p>The <a href="nussbaumcfe.com">Nussbaum Center for Entrepreneurship</a> was founded in 1987. It is a private non-profit whose mission is to attract, advise and house start-up and early stage growth entrepreneurs. A big thank you to them as they have graciously offered to provide space for our next meeting. The Nussbaum center can be located at: <span class="text-info">1451 S Elm Eugene St, Greensboro, NC 27406.</span> Rides are available for students in need!
+            <p>The <a href="http://nussbaumcfe.com">Nussbaum Center for Entrepreneurship</a> was founded in 1987. It is a private non-profit whose mission is to attract, advise and house start-up and early stage growth entrepreneurs. A big thank you to them as they have graciously offered to provide space for our next meeting. The Nussbaum center can be located at: <span class="text-info">1451 S Elm Eugene St, Greensboro, NC 27406.</span> Rides are available for students in need!
             <p>
         </div> <!-- end where info -->
     </div><!-- end left column -->
@@ -78,11 +78,11 @@
             <li>Reverting to a previous version (resetting)</li>
             <li>Working on different versions of a repo (branching)</li>
             <li>Requesting your version (branch) of a GitHub repo be added (submitting a pull request)</li>
-            <li>And, adding pull request to a GitHub repo you are responsible for (merging)</li>
+            <li>And, adding pull requests to a GitHub repo you are responsible for (merging)</li>
         </ol>
 
         <p>
-        If you would like more information about Git, visit their <a href="http://git-scm.com/"website</a> or read thier <a href="http://git-scm.com/book/en/Getting-Started">free book</a>. It is recommended that you visit <a href="http://github.com">GitHub</a>, sign up for an account (it's free!), and upgrade it to a micro account (it's free if you're a student!). More information about Github's free student accounts can be found <a href="http://hairycode.org/2013/08/03/github-offers-free-student-accounts/">here</a>.
+        If you would like more information about Git, visit their <a href="http://git-scm.com/">website</a> or read thier <a href="http://git-scm.com/book/en/Getting-Started">free book</a>. It is recommended that you visit <a href="http://github.com">GitHub</a>, sign up for an account (it's free!), and upgrade it to a micro account (it's free if you're a student!). More information about Github's free student accounts can be found <a href="http://hairycode.org/2013/08/03/github-offers-free-student-accounts/">here</a>.
         </p>
 
     </div><!-- end right column -->
