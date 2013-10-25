@@ -25,8 +25,12 @@
     <div class="col-lg-8">
 
         <!-- talk info -->
-        <h3>The Next Talk</h3>
-        <p><span class="lead">Information coming soon!</span></p>
-        <p>With our first talk completed, we are now reviewing feedback, proposed talks, and searching out more possible collaborators so that you will have the most productive expereince possible. Expect a survey requesting more feedback soon!</p>
+        <h3>What is best for <i><b>you?</b></i></h3
+        <p><span class="lead">Our next talk is coming soon!</span></p>
+        <p>With our first talk completed, we are now reviewing feedback, proposed talks, and speaking more potential collaborators. Please contribute by filling out the survey below so that you will have the most productive experience possible!</p>
+
+    
+        <!-- survery -->
+        <iframe src="https://docs.google.com/forms/d/1R89MSuDbBoDPJQdJbBj4Vnan-JWt1HcjbyfgwpTJYIM/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div><!-- end right column -->
 </div><!-- end informational columns -->
