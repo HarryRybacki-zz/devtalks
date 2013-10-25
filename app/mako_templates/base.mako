@@ -3,8 +3,6 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>DevTalks: Developers teaching developers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="LVMxbsUVuzEXaGr1bRrZoPX_aTNlByvFdZU7lflVKbI" />
-    <meta name="google-site-verification" content="hrdtgBsL2CU7WDLXgcHM8El-dMwhWMntJp0BClpVIVw" />
     <meta charset="utf-8">
     <link rel="stylesheet" href="${ url_for('static',
     filename='css/bootstrap.css') }">
@@ -156,11 +154,9 @@
                         <a href="/goals/">Goals</a>
                     </li>
 
-                    <!--
                     <li>
-                        <a href="/">Donating</a>
+                        <a href="/feedback/">Give Feedback</a>
                     </li>
-                    -->
 
                 </ul>
             </div>
@@ -182,7 +178,7 @@
                     <p>Made by <a href="http://hairycode.org">Harry Rybacki</a>. Contact him
                     at <a href="mailto:hrybacki@gmail.com">hrybacki@gmail.com</a>.</p>
                     <p>Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.</p>
-                    <p>Based on <a href="http://getbootstrap.com/">Bootstrap</a>. Icons from <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>. Web fonts from <a href="http://www.google.com/webfonts">Google</a>.</p>
+                    <p>Based on <a href="http://getbootstrap.com/">Bootstrap</a>. Icons from <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>. Web fonts from <a href="http://www.google.com/webfonts">Google</a>. Favicon by <a href="https://twitter.com/geraldhiller">Gerald Hiller</a>.</p>
 
                 </div>
             </div>

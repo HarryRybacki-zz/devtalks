@@ -22,6 +22,10 @@ def index():
 def goals():
     return render_mako("goals.mako")
 
+@app.route('/feedback/')
+def give_feedback():
+    return render_mako("feedback.mako")
+
 @app.route('/previous_talks/')
 def previous_talks():
     return render_mako("previous_talks.mako")
