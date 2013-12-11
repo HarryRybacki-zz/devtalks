@@ -27,20 +27,19 @@
         <!-- who info -->
         <div class="row">
             <h3>Who</h3>
-            <p class="lead">TBD</p>
-            <p>
-      
+            <p class="lead">Brandon Burke</p>
+            <p>Brandon is a self-employed developer working in the legal technology industry, and cofounder of <a href="http://studioboro.com">Studioboro</a>, a coworking space in downtown Greensboro. He's pretty quite online, but you can find him at @brandonburke on Twitter.
             </p>
         </div> <!-- end who info -->
 
         <!-- when info -->
         <div class="row">
             <h3>When</h3>
-            <p class="lead">2 December 2013</p>
+            <p class="lead">13 January 2014</p>
             <ul>
-                <li>The talk: 6:00PM - 6:50PM</li>
-                <li>Break (snacks, coffee, and beer..?): 6:51PM - 7:10PM</li>
-                <li>Breakout sessions and discussion: 7:11PM - 8:00PM</li>
+                <li>The talk: 6:00PM - 6:45PM</li>
+                <li>Break (snacks, coffee, and beer..!): 6:46PM - 7:10PM</li>
+                <li>Breakout sessions and open discussion: 7:11PM - 8:00PM</li>
             </ul>
         </div> <!-- end when info -->
 
@@ -61,7 +60,19 @@
         <p><span class="lead">jQuery:</span> Write less, do more.</p>
 
         <p>
-        Talk specifics coming soon!
+        Our next talk will provide an introduction to jQuery, and we'll talk about why, when, and how to use it to hopefully give you a practical starting place for working with jQuery. We'll assume a basic understanding of HTML and CSS and will introduce topics and work through examples of:
+        </p>
+
+        <ul class="text-info">
+            <li>finding DOM elements using jQuery selectors</li>
+            <li>manipulating and traversing through said elements through chaining</li>
+            <li>event delegation</li>
+            <li>basic animation</li>
+            <li>using jQuery plugins</li>
+        </ul>
+
+        <p>
+        We'll take what we learn and wrap it all together and solve one of those real-world problems.
         </p>
 
     </div><!-- end right column -->
