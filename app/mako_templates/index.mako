@@ -27,29 +27,15 @@
         <!-- who info -->
         <div class="row">
             <h3>Who</h3>
-            <p class="lead">Brandon Burke</p>
-            <p>Brandon is a self-employed developer working in the legal technology industry, and cofounder of <a href="http://studioboro.com">Studioboro</a>, a coworking space in downtown Greensboro. He's pretty quite online, but you can find him at @brandonburke on Twitter.
+            <p class="lead">Piyush Agarwal</p>
+            <img src="${url_for('static', filename='img/piyush.jpg')}" class="img-thumbnail" />
+            <br /><br />
+            <p>Piyush is a software developer who loves to be called a "Coder." Currently, he is pursuing his Masters in Computer Science while working on a Machine-Learning project written in Python. Passionate about programming, he can usually code for many hours at a stretch. A motivated learner and self-taught coder, Piyush is always ready to learn something new. His preferred languages are are C , C++, C#, Python, Java, Javascript, jQuery, HTML, and CSS.
+            </p>
+
+            <p>Some of Piyush's other interests include music, gadgets, photography, technology, lawn tennis, table tennis, soccer, wprkouts and FIFA. Additionally, he likes to travel and visit new and beautiful places around ths world; natural and scenic views, meeting new people of different cultures, visiting great historic places are some of his favorite non-techie things in life.
             </p>
         </div> <!-- end who info -->
-
-        <!-- when info -->
-        <div class="row">
-            <h3>When</h3>
-            <p class="lead">13 January 2014</p>
-            <ul>
-                <li>The talk: 6:00PM - 6:45PM</li>
-                <li>Break (snacks, coffee, and beer..!): 6:46PM - 7:10PM</li>
-                <li>Breakout sessions and open discussion: 7:11PM - 8:00PM</li>
-            </ul>
-        </div> <!-- end when info -->
-
-        <!-- where info -->
-        <div class="row">
-            <h3>Where</h3>
-            <p class="lead">Nussbaum Center, downtown Greensboro.</p>
-            <p>The <a href="http://nussbaumcfe.com">Nussbaum Center for Entrepreneurship</a> was founded in 1987. It is a private non-profit whose mission is to attract, advise and house start-up and early stage growth entrepreneurs. A big thank you to them as they have graciously offered to provide space for our next meeting. The Nussbaum center can be located at: <span class="text-info">1451 S Elm Eugene St, Greensboro, NC 27406.</span> Rides are available for students in need!
-            <p>
-        </div> <!-- end where info -->
     </div><!-- end left column -->
 
  <!-- right column -->
@@ -57,23 +43,33 @@
 
         <!-- talk info -->
         <h3>The Talk</h3>
-        <p><span class="lead">jQuery:</span> Write less, do more.</p>
+        <p><span class="lead">The Semanitc-Web:</span> Making websites scale.</p>
 
         <p>
-        Our next talk will provide an introduction to jQuery, and we'll talk about why, when, and how to use it to hopefully give you a practical starting place for working with jQuery. We'll assume a basic understanding of HTML and CSS and will introduce topics and work through examples of:
+        During this talk, Piyush will provide an introduction to the semantic web. Additionally, you will be given an overview of how we can use CSS, HTML, and JavaScript as tools to make our web applications scale from your phone to your laptop to your LCD-TV.
+        </p>
+        <p>While everyone is welcome to join, it is recommended that attendees have at least a basic grasp of syntax and usage of CSS and HTML. 
+        he participants need to have some understanding of at-least CSS and HTML. For some good introductory tutorials please check ou the links below:
         </p>
 
         <ul class="text-info">
-            <li>finding DOM elements using jQuery selectors</li>
-            <li>manipulating and traversing through said elements through chaining</li>
-            <li>event delegation</li>
-            <li>basic animation</li>
-            <li>using jQuery plugins</li>
+            <li><a href="http://www.htmldog.com/guides/html/beginner/">HTML tutorial</a></li>
+            <li><a href="http://www.htmldog.com/guides/css/beginner/">CSS tutorial</a></li>
+            <li><a href="http://learn.jquery.com/javascript-101/">JavaScript introduction</a></li>
         </ul>
 
+        <h3>When</h3>
+        <p class="lead">4 February 2014</p>
+        <ul>
+            <li>The talk (first half): 6:00PM - 6:45PM</li>
+            <li>Break and open discussion (snacks, coffee, and beer..!): 6:46PM - 7:15PM</li>
+            <li>The talk (second half): 7:16PM - 8:00PM</li>
+        </ul>
+
+        <h3>Where</h3>
+        <p class="lead">Nussbaum Center, downtown Greensboro.</p>
+        <p>The <a href="http://nussbaumcfe.com">Nussbaum Center for Entrepreneurship</a> was founded in 1987. It is a private non-profit whose mission is to attract, advise and house start-up and early stage growth entrepreneurs. A big thank you to them as they have graciously offered to provide space for our next meeting. The Nussbaum center can be located at: <span class="text-info">1451 S Elm Eugene St, Greensboro, NC 27406.</span> Rides are available for students in need!
         <p>
-        We'll take what we learn and wrap it all together and solve one of those real-world problems.
-        </p>
 
     </div><!-- end right column -->
 
