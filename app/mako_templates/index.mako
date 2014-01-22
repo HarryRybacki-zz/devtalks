@@ -30,10 +30,10 @@
             <p class="lead">Piyush Agarwal</p>
             <img src="${url_for('static', filename='img/piyush.jpg')}" class="img-thumbnail" />
             <br /><br />
-            <p>Piyush is a software developer who loves to be called a "Coder." Currently, he is pursuing his Masters in Computer Science while working on a Machine-Learning project written in Python. Passionate about programming, he can usually code for many hours at a stretch. A motivated learner and self-taught coder, Piyush is always ready to learn something new. His preferred languages are are C , C++, C#, Python, Java, Javascript, jQuery, HTML, and CSS.
+            <p>Piyush is a software developer who loves to be called a "Coder." Currently, he is pursuing his Masters in Computer Science while working on a Machine-Learning project written in Python. Passionate about programming, he can usually code for many hours at a stretch. A motivated learner and self-taught coder, Piyush is always ready to learn something new. His preferred languages are C , C++, C#, Python, Java, JavaScript, jQuery, HTML, and CSS.
             </p>
 
-            <p>Some of Piyush's other interests include music, gadgets, photography, technology, lawn tennis, table tennis, soccer, wprkouts and FIFA. Additionally, he likes to travel and visit new and beautiful places around ths world; natural and scenic views, meeting new people of different cultures, visiting great historic places are some of his favorite non-techie things in life.
+            <p>Some of Piyush's other interests include music, gadgets, photography, technology, lawn tennis, table tennis, soccer, workouts and FIFA. Additionally, he likes to travel and visit new and beautiful places around the world; natural and scenic views, meeting new people of different cultures, visiting great historic places are some of his favorite non-techie things in life.
             </p>
         </div> <!-- end who info -->
     </div><!-- end left column -->
@@ -43,14 +43,16 @@
 
         <!-- talk info -->
         <h3>The Talk</h3>
-        <p><span class="lead">The Semanitc-Web:</span> Making websites scale.</p>
+        <p><span class="lead">The Semanitc Web and Making Websites Scale</span></p>
 
-        <p>
-        During this talk, Piyush will provide an introduction to the semantic web. Additionally, you will be given an overview of how we can use CSS, HTML, and JavaScript as tools to make our web applications scale from your phone to your laptop to your LCD-TV.
-        </p>
-        <p>While everyone is welcome to join, it is recommended that attendees have at least a basic grasp of syntax and usage of CSS and HTML. 
-        he participants need to have some understanding of at-least CSS and HTML. For some good introductory tutorials please check ou the links below:
-        </p>
+        <ol>
+          <li>The Semantic Web: Adding some additional data to your websites so as to make them more meaningful, machine readable and easier to manage.</li>
+          <li>Creating Scalable Websites: Creating websites which can easily be viewed on various devices without any issues of scaling. The website will adjust itself according to the screen size of the device.</li>
+        </ol>
+
+        <p>During this talk, Piyush will provide an introduction to the semantic web. Additionally, you will be given an overview of how we can use CSS, HTML, and JavaScript as tools to make our web applications scale from your phone to your laptop to your LCD-TV.</p>
+
+        <p>While everyone is welcome to join, it is recommended that attendees have at least a basic grasp of syntax and usage of CSS and HTML. For some good introductory tutorials please check out the links below:</p>
 
         <ul class="text-info">
             <li><a href="http://www.htmldog.com/guides/html/beginner/">HTML tutorial</a></li>
