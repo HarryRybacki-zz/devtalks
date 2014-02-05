@@ -76,7 +76,7 @@
     <div class="col-lg-12"><!-- header -->
         <h2>DevTalks: Developers teaching developers</h2>
         <h3>Previous Talks:</h3>
-        <h3>4-Nov-2013: You like games, so why note make one?</h3>
+        <h3>4-Nov-2013: Version Control Systems: An introduction with GitHub.<h3>
     </div><!-- end header column -->
 </div><!-- end header row -->
 
@@ -152,7 +152,7 @@
 <!-- header -->
 <div class="row">
     <div class="col-lg-12"><!-- header -->
-        <h3>5-Oct-2013: You like games, so why note make one?</h3>
+        <h3>5-Oct-2013: You like games, so why not make one?</h3>
     </div><!-- end header column -->
 </div><!-- end header row -->
 

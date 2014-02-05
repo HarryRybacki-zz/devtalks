@@ -61,7 +61,7 @@
         </ul>
 
         <h3>When</h3>
-        <p class="lead">4 February 2014</p>
+        <p class="lead">6 February 2014</p>
         <ul>
             <li>The talk (first half): 6:00PM - 6:45PM</li>
             <li>Break and open discussion (snacks, coffee, and beer..!): 6:46PM - 7:15PM</li>
