@@ -154,9 +154,11 @@
                         <a href="/goals/">Goals</a>
                     </li>
 
+                    <!--
                     <li>
                         <a href="/feedback/">Give Feedback</a>
                     </li>
+                    -->
 
                 </ul>
             </div>
