@@ -21,8 +21,7 @@
 <!-- Austin's talk on 3D Printers 3-Mar-14 -->
 <div class="row">
     <div class="col-lg-12"><!-- header -->
-        <h1><span class="text-danger">URGENT:</a> Tonight's DevTalk has been postponed due to inclement weather!</h1>
-        <h2>Upcoming Talk: TBD</h2>
+        <h2>Upcoming Talk: 7 April 2014</h2>
     </div><!-- end header column -->
 </div><!-- end header row -->
 
@@ -68,7 +67,7 @@
         <p>After introducing some 3d printer concepts we will design and start printing a part on a Solidoodle 2 during the mid-talk break which everyone will be able to see by the end our discussion.</p>
 
         <h3>When</h3>
-        <p class="lead">TBD</p>
+        <p class="lead">7 April 2014</p>
         <ul>
             <li>The talk (first half): 6:00PM - 6:45PM</li>
             <li>Break and open discussion (pizza, water, and beer..!): 6:46PM - 7:15PM</li>
