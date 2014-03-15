@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="${ url_for('static',
     filename='css/font-awesome.css') }">
     <link rel="stylesheet" href="${ url_for('static',
-    filename='css/bootswatch.css') }">
+    filename='css/videohack.css') }">
 
     <script src="/static/js/jquery.js" type="text/javascript"></script>
     <script src="/static/js/bootstrap.js" type="text/javascript"></script>
