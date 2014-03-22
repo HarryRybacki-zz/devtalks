@@ -73,7 +73,7 @@
         <h3>The Event</h3>
         <p><span class="lead">Developers:</span> Startup Weekend</p>
 
-        <p>We are trying to make this Startup Weekend a DEVELOPER's Startup Weekend. We want you to help us get Greensboro on the map and show the southeast that Greensboro is more than aroute from Charlotte ot the Triangle in terms of tech talent.</p>
+        <p>We are trying to make this Startup Weekend a DEVELOPER's Startup Weekend. We want you to help us get Greensboro on the map and show the southeast that Greensboro is more than a route from Charlotte to the Triangle in terms of tech talent.</p>
 
         <p>Watch the video below to checkout what Startup Weekend is about and visit <a href="http://triad.startupweekend.org">their landing page</a> to register. <a href="mailto:hrybacki@gmail.com">Contact Harry</a> for sponsorship and promotional codes for your discounted rates!</p>
         <div class="video-container"><iframe width="560" height="315" src="http://www.youtube.com/embed/8-MHPb2ghrA" frameborder="0"></iframe></div>
